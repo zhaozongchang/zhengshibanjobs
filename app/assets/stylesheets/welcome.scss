@@ -1,3 +1,46 @@
 // Place all the styles related to the welcome controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+.wrap{
+  width:192px;
+  //border-width: 1px;
+//  border-style: solid;
+//  border-color: red;
+  //margin: 10px auto; //水平居中
+}
+.wrap-content{
+  width:180px;
+  margin: 0 auto;
+  font-size: 0;
+}
+p{
+  background-color: #f2f2f2;
+  margin: 0 ;
+  font-size: 14px;
+  height: 36px;
+  line-height: 36px;
+}
+.item{
+  margin-top:16px;
+}
+
+.waiceng{
+  width: 200px;
+  //border-color: red;
+//  border-style: solid;
+  //margin: 10px auto;
+}
+.waiceng-content{
+  width: 190px;
+  margin: 0 auto;
+  font-size: 0px;
+
+}
+p {
+  font-size: 14px;
+  text-align: center;
+  background-color: #f2f2f2;
+  height: 40px;
+  margin: 0 ;
+  line-height: 40px;
+}
