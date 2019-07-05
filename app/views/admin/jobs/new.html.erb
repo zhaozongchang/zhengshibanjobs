@@ -1,0 +1,8 @@
+<h2>新增job</h2>
+
+<%= simple_form_for [:admin,@job] do |f| %>
+
+<%= f.input :title %>
+<%= f.input :description %>
+<%= f.submit "new" %>
+<% end %>
